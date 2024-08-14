@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const featuredContent = document.querySelector('.featured-content');
 
   // Fetch the data from the server
-  fetch('http://localhost:3000/data')
+  fetch('https://js1pro.onrender.com/data')
       .then(response => response.json())
       .then(data => {
           // Set match types in the navbar
