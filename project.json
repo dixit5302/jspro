@@ -1,0 +1,3675 @@
+{
+  "data": [
+    {
+      "id": "3ada",
+      "typeMatches": [
+        {
+          "matchType": "International", 
+          "seriesMatches": [
+            {
+              "seriesAdWrapper": {
+                "seriesId": 8528,
+                "seriesName": "India tour of Sri Lanka, 2024",
+                "matches": [
+                  {
+                    "matchInfo": {
+                      "matchId": 101550,
+                      "seriesId": 8528,
+                      "seriesName": "India tour of Sri Lanka, 2024",
+                      "matchDesc": "2nd ODI",
+                      "matchFormat": "ODI",
+                      "startDate": "1722762000000",
+                      "endDate": "1722790800000",
+                      "state": "Complete",
+                      "status": "Sri Lanka won by 32 runs",
+                      "team1": {
+                        "teamId": 5,
+                        "teamName": "Sri Lanka",
+                        "teamSName": "SL",
+                        "imageId": 172119
+                      },
+                      "team2": {
+                        "teamId": 2,
+                        "teamName": "India",
+                        "teamSName": "IND",
+                        "imageId": 172115
+                      },
+                      "venueInfo": {
+                        "id": 15,
+                        "ground": "R.Premadasa Stadium",
+                        "city": "Colombo",
+                        "timezone": "+05:30",
+                        "latitude": "6.939966",
+                        "longitude": "79.872222"
+                      },
+                      "currBatTeamId": 5,
+                      "seriesStartDt": "1722038400000",
+                      "seriesEndDt": "1723161600000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "SL Won",
+                      "isFantasyEnabled": true
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 240,
+                          "wickets": 9,
+                          "overs": 49.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 208,
+                          "wickets": 10,
+                          "overs": 42.2
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 101549,
+                      "seriesId": 8528,
+                      "seriesName": "India tour of Sri Lanka, 2024",
+                      "matchDesc": "1st ODI",
+                      "matchFormat": "ODI",
+                      "startDate": "1722589200000",
+                      "endDate": "1722618000000",
+                      "state": "Complete",
+                      "status": "Match tied",
+                      "team1": {
+                        "teamId": 5,
+                        "teamName": "Sri Lanka",
+                        "teamSName": "SL",
+                        "imageId": 172119
+                      },
+                      "team2": {
+                        "teamId": 2,
+                        "teamName": "India",
+                        "teamSName": "IND",
+                        "imageId": 172115
+                      },
+                      "venueInfo": {
+                        "id": 15,
+                        "ground": "R.Premadasa Stadium",
+                        "city": "Colombo",
+                        "timezone": "+05:30",
+                        "latitude": "6.939966",
+                        "longitude": "79.872222"
+                      },
+                      "seriesStartDt": "1722038400000",
+                      "seriesEndDt": "1723161600000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "Complete",
+                      "isFantasyEnabled": true
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 230,
+                          "wickets": 8,
+                          "overs": 49.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 230,
+                          "wickets": 10,
+                          "overs": 47.5
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "seriesAdWrapper": {
+                "seriesId": 8238,
+                "seriesName": "South Africa tour of West Indies, 2024",
+                "matches": [
+                  {
+                    "matchInfo": {
+                      "matchId": 96177,
+                      "seriesId": 8238,
+                      "seriesName": "South Africa tour of West Indies, 2024",
+                      "matchDesc": "4-day Warm-up match",
+                      "matchFormat": "TEST",
+                      "startDate": "1722434400000",
+                      "endDate": "1722718800000",
+                      "state": "Complete",
+                      "status": "Match drawn",
+                      "team1": {
+                        "teamId": 2055,
+                        "teamName": "West Indies Championship XI",
+                        "teamSName": "WICXI",
+                        "imageId": 534463
+                      },
+                      "team2": {
+                        "teamId": 11,
+                        "teamName": "South Africa",
+                        "teamSName": "RSA",
+                        "imageId": 172126
+                      },
+                      "venueInfo": {
+                        "id": 500,
+                        "ground": "Brian Lara Stadium",
+                        "city": "Tarouba, Trinidad",
+                        "timezone": "-04:00",
+                        "latitude": "10.295034",
+                        "longitude": "-61.445609"
+                      },
+                      "seriesStartDt": "1722384000000",
+                      "seriesEndDt": "1724889600000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "Match drawn"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 397,
+                          "wickets": 10,
+                          "overs": 117.3
+                        },
+                        "inngs2": {
+                          "inningsId": 3,
+                          "runs": 46,
+                          "wickets": 4,
+                          "overs": 26.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 408,
+                          "wickets": 9,
+                          "overs": 118.6,
+                          "isDeclared": true
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "seriesAdWrapper": {
+                "seriesId": 6780,
+                "seriesName": "West Indies tour of England, 2024",
+                "matches": [
+                  {
+                    "matchInfo": {
+                      "matchId": 76500,
+                      "seriesId": 6780,
+                      "seriesName": "West Indies tour of England, 2024",
+                      "matchDesc": "3rd Test",
+                      "matchFormat": "TEST",
+                      "startDate": "1721988000000",
+                      "endDate": "1722358800000",
+                      "state": "Complete",
+                      "status": "England won by 10 wkts",
+                      "team1": {
+                        "teamId": 10,
+                        "teamName": "West Indies",
+                        "teamSName": "WI",
+                        "imageId": 172124
+                      },
+                      "team2": {
+                        "teamId": 9,
+                        "teamName": "England",
+                        "teamSName": "ENG",
+                        "imageId": 172123
+                      },
+                      "venueInfo": {
+                        "id": 20,
+                        "ground": "Edgbaston",
+                        "city": "Birmingham",
+                        "timezone": "+01:00",
+                        "latitude": "52.455774",
+                        "longitude": "-1.902624"
+                      },
+                      "currBatTeamId": 9,
+                      "seriesStartDt": "1719964800000",
+                      "seriesEndDt": "1722470400000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "ENG Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 282,
+                          "wickets": 10,
+                          "overs": 75.1
+                        },
+                        "inngs2": {
+                          "inningsId": 3,
+                          "runs": 175,
+                          "wickets": 10,
+                          "overs": 51.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 376,
+                          "wickets": 10,
+                          "overs": 75.4
+                        },
+                        "inngs2": {
+                          "inningsId": 4,
+                          "runs": 87,
+                          "overs": 7.2
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "seriesAdWrapper": {
+                "seriesId": 8578,
+                "seriesName": "Spain tour of Croatia, 2024",
+                "matches": [
+                  {
+                    "matchInfo": {
+                      "matchId": 102475,
+                      "seriesId": 8578,
+                      "seriesName": "Spain tour of Croatia, 2024",
+                      "matchDesc": "5th T20I",
+                      "matchFormat": "T20",
+                      "startDate": "1722771900000",
+                      "endDate": "1722784500000",
+                      "state": "Complete",
+                      "status": "Spain won by 161 runs",
+                      "team1": {
+                        "teamId": 523,
+                        "teamName": "Spain",
+                        "teamSName": "SPAIN",
+                        "imageId": 248450
+                      },
+                      "team2": {
+                        "teamId": 1076,
+                        "teamName": "Croatia",
+                        "teamSName": "CRT",
+                        "imageId": 247197
+                      },
+                      "venueInfo": {
+                        "id": 1437773,
+                        "ground": "Mladost Cricket Ground",
+                        "city": "Zagreb",
+                        "timezone": "+02:00",
+                        "latitude": "44.3248336",
+                        "longitude": "11.123022"
+                      },
+                      "currBatTeamId": 523,
+                      "seriesStartDt": "1722556800000",
+                      "seriesEndDt": "1723075200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "SPAIN Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 230,
+                          "wickets": 4,
+                          "overs": 19.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 69,
+                          "wickets": 10,
+                          "overs": 17.4
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 102468,
+                      "seriesId": 8578,
+                      "seriesName": "Spain tour of Croatia, 2024",
+                      "matchDesc": "4th T20I",
+                      "matchFormat": "T20",
+                      "startDate": "1722757500000",
+                      "endDate": "1722770100000",
+                      "state": "Complete",
+                      "status": "Spain won by 140 runs",
+                      "team1": {
+                        "teamId": 523,
+                        "teamName": "Spain",
+                        "teamSName": "SPAIN",
+                        "imageId": 248450
+                      },
+                      "team2": {
+                        "teamId": 1076,
+                        "teamName": "Croatia",
+                        "teamSName": "CRT",
+                        "imageId": 247197
+                      },
+                      "venueInfo": {
+                        "id": 1437773,
+                        "ground": "Mladost Cricket Ground",
+                        "city": "Zagreb",
+                        "timezone": "+02:00",
+                        "latitude": "44.3248336",
+                        "longitude": "11.123022"
+                      },
+                      "currBatTeamId": 523,
+                      "seriesStartDt": "1722556800000",
+                      "seriesEndDt": "1723075200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "SPAIN Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 205,
+                          "wickets": 5,
+                          "overs": 19.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 65,
+                          "wickets": 10,
+                          "overs": 13.2
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 102466,
+                      "seriesId": 8578,
+                      "seriesName": "Spain tour of Croatia, 2024",
+                      "matchDesc": "3rd T20I",
+                      "matchFormat": "T20",
+                      "startDate": "1722684600000",
+                      "endDate": "1722697200000",
+                      "state": "Complete",
+                      "status": "Spain won by 8 wkts",
+                      "team1": {
+                        "teamId": 1076,
+                        "teamName": "Croatia",
+                        "teamSName": "CRT",
+                        "imageId": 247197
+                      },
+                      "team2": {
+                        "teamId": 523,
+                        "teamName": "Spain",
+                        "teamSName": "SPAIN",
+                        "imageId": 248450
+                      },
+                      "venueInfo": {
+                        "id": 1437773,
+                        "ground": "Mladost Cricket Ground",
+                        "city": "Zagreb",
+                        "timezone": "+02:00",
+                        "latitude": "44.3248336",
+                        "longitude": "11.123022"
+                      },
+                      "currBatTeamId": 523,
+                      "seriesStartDt": "1722556800000",
+                      "seriesEndDt": "1723075200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "SPAIN Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 47,
+                          "wickets": 10,
+                          "overs": 11.5
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 51,
+                          "wickets": 2,
+                          "overs": 8.1
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 102459,
+                      "seriesId": 8578,
+                      "seriesName": "Spain tour of Croatia, 2024",
+                      "matchDesc": "2nd T20I",
+                      "matchFormat": "T20",
+                      "startDate": "1722668400000",
+                      "endDate": "1722681000000",
+                      "state": "Complete",
+                      "status": "Spain won by 6 wkts",
+                      "team1": {
+                        "teamId": 1076,
+                        "teamName": "Croatia",
+                        "teamSName": "CRT",
+                        "imageId": 247197
+                      },
+                      "team2": {
+                        "teamId": 523,
+                        "teamName": "Spain",
+                        "teamSName": "SPAIN",
+                        "imageId": 248450
+                      },
+                      "venueInfo": {
+                        "id": 1437773,
+                        "ground": "Mladost Cricket Ground",
+                        "city": "Zagreb",
+                        "timezone": "+02:00",
+                        "latitude": "44.3248336",
+                        "longitude": "11.123022"
+                      },
+                      "currBatTeamId": 523,
+                      "seriesStartDt": "1722556800000",
+                      "seriesEndDt": "1723075200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "SPAIN Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 52,
+                          "wickets": 10,
+                          "overs": 16.4
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 53,
+                          "wickets": 4,
+                          "overs": 5.6
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 102450,
+                      "seriesId": 8578,
+                      "seriesName": "Spain tour of Croatia, 2024",
+                      "matchDesc": "1st T20I",
+                      "matchFormat": "T20",
+                      "startDate": "1722600000000",
+                      "endDate": "1722612600000",
+                      "state": "Complete",
+                      "status": "Spain won by 4 wkts",
+                      "team1": {
+                        "teamId": 1076,
+                        "teamName": "Croatia",
+                        "teamSName": "CRT",
+                        "imageId": 247197
+                      },
+                      "team2": {
+                        "teamId": 523,
+                        "teamName": "Spain",
+                        "teamSName": "SPAIN",
+                        "imageId": 248450
+                      },
+                      "venueInfo": {
+                        "id": 1437773,
+                        "ground": "Mladost Cricket Ground",
+                        "city": "Zagreb",
+                        "timezone": "+02:00",
+                        "latitude": "44.3248336",
+                        "longitude": "11.123022"
+                      },
+                      "currBatTeamId": 523,
+                      "seriesStartDt": "1722556800000",
+                      "seriesEndDt": "1723075200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "SPAIN Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 125,
+                          "wickets": 9,
+                          "overs": 19.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 128,
+                          "wickets": 6,
+                          "overs": 15.5
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "matchType": "League",
+          "seriesMatches": [
+            {
+              "seriesAdWrapper": {
+                "seriesId": 7525,
+                "seriesName": "The Hundred Mens Competition 2024",
+                "matches": [
+                  {
+                    "matchInfo": {
+                      "matchId": 88657,
+                      "seriesId": 7525,
+                      "seriesName": "The Hundred Mens Competition 2024",
+                      "matchDesc": "16th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722790800000",
+                      "endDate": "1722790800000",
+                      "state": "Complete",
+                      "status": "Northern Superchargers won by 14 runs",
+                      "team1": {
+                        "teamId": 610,
+                        "teamName": "Northern Superchargers",
+                        "teamSName": "NORS",
+                        "imageId": 202711
+                      },
+                      "team2": {
+                        "teamId": 609,
+                        "teamName": "Manchester Originals",
+                        "teamSName": "MCR",
+                        "imageId": 202710
+                      },
+                      "venueInfo": {
+                        "id": 66,
+                        "ground": "Headingley",
+                        "city": "Leeds",
+                        "timezone": "+01:00",
+                        "latitude": "53.817622",
+                        "longitude": "-1.58211"
+                      },
+                      "currBatTeamId": 610,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "NORS Won",
+                      "isFantasyEnabled": true
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 167,
+                          "wickets": 5,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 153,
+                          "wickets": 6,
+                          "overs": 100
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88653,
+                      "seriesId": 7525,
+                      "seriesName": "The Hundred Mens Competition 2024",
+                      "matchDesc": "15th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722778200000",
+                      "endDate": "1722778200000",
+                      "state": "Complete",
+                      "status": "Oval Invincibles won by 30 runs",
+                      "team1": {
+                        "teamId": 608,
+                        "teamName": "London Spirit",
+                        "teamSName": "LDN",
+                        "imageId": 202696
+                      },
+                      "team2": {
+                        "teamId": 605,
+                        "teamName": "Oval Invincibles",
+                        "teamSName": "OVL",
+                        "imageId": 202707
+                      },
+                      "venueInfo": {
+                        "id": 19,
+                        "ground": "Lord's",
+                        "city": "London",
+                        "timezone": "+01:00",
+                        "latitude": "51.529488",
+                        "longitude": "-0.172926"
+                      },
+                      "currBatTeamId": 605,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "OVL Won",
+                      "isFantasyEnabled": true
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 117,
+                          "wickets": 10,
+                          "overs": 95
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 147,
+                          "wickets": 5,
+                          "overs": 100
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88646,
+                      "seriesId": 7525,
+                      "seriesName": "The Hundred Mens Competition 2024",
+                      "matchDesc": "14th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722704400000",
+                      "endDate": "1722704400000",
+                      "state": "Complete",
+                      "status": "Welsh Fire won by 4 runs",
+                      "team1": {
+                        "teamId": 606,
+                        "teamName": "Welsh Fire",
+                        "teamSName": "WEF",
+                        "imageId": 202708
+                      },
+                      "team2": {
+                        "teamId": 612,
+                        "teamName": "Trent Rockets",
+                        "teamSName": "TRE",
+                        "imageId": 202713
+                      },
+                      "venueInfo": {
+                        "id": 18,
+                        "ground": "Trent Bridge",
+                        "city": "Nottingham",
+                        "timezone": "+01:00",
+                        "latitude": "52.936884",
+                        "longitude": "-1.132230"
+                      },
+                      "currBatTeamId": 606,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "WEF Won",
+                      "isFantasyEnabled": true
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 129,
+                          "wickets": 6,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 125,
+                          "wickets": 8,
+                          "overs": 100
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88639,
+                      "seriesId": 7525,
+                      "seriesName": "The Hundred Mens Competition 2024",
+                      "matchDesc": "13th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722691800000",
+                      "endDate": "1722691800000",
+                      "state": "Complete",
+                      "status": "Southern Brave won by 32 runs",
+                      "team1": {
+                        "teamId": 611,
+                        "teamName": "Southern Brave",
+                        "teamSName": "SOU",
+                        "imageId": 202712
+                      },
+                      "team2": {
+                        "teamId": 607,
+                        "teamName": "Birmingham Phoenix",
+                        "teamSName": "BRM",
+                        "imageId": 202709
+                      },
+                      "venueInfo": {
+                        "id": 20,
+                        "ground": "Edgbaston",
+                        "city": "Birmingham",
+                        "timezone": "+01:00",
+                        "latitude": "52.455774",
+                        "longitude": "-1.902624"
+                      },
+                      "currBatTeamId": 611,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "SOU Won",
+                      "isFantasyEnabled": true
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 169,
+                          "wickets": 2,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 137,
+                          "wickets": 9,
+                          "overs": 100
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88632,
+                      "seriesId": 7525,
+                      "seriesName": "The Hundred Mens Competition 2024",
+                      "matchDesc": "12th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722619800000",
+                      "endDate": "1722619800000",
+                      "state": "Complete",
+                      "status": "Northern Superchargers won by 19 runs",
+                      "team1": {
+                        "teamId": 610,
+                        "teamName": "Northern Superchargers",
+                        "teamSName": "NORS",
+                        "imageId": 202711
+                      },
+                      "team2": {
+                        "teamId": 605,
+                        "teamName": "Oval Invincibles",
+                        "teamSName": "OVL",
+                        "imageId": 202707
+                      },
+                      "venueInfo": {
+                        "id": 12,
+                        "ground": "Kennington Oval",
+                        "city": "London",
+                        "timezone": "+01:00",
+                        "latitude": "51.48368",
+                        "longitude": "-0.114885"
+                      },
+                      "currBatTeamId": 610,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "NORS Won",
+                      "isFantasyEnabled": true
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 145,
+                          "wickets": 5,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 126,
+                          "wickets": 9,
+                          "overs": 100
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88629,
+                      "seriesId": 7525,
+                      "seriesName": "The Hundred Mens Competition 2024",
+                      "matchDesc": "11th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722533400000",
+                      "endDate": "1722533400000",
+                      "state": "Complete",
+                      "status": "Southern Brave won by 7 wkts",
+                      "team1": {
+                        "teamId": 609,
+                        "teamName": "Manchester Originals",
+                        "teamSName": "MCR",
+                        "imageId": 202710
+                      },
+                      "team2": {
+                        "teamId": 611,
+                        "teamName": "Southern Brave",
+                        "teamSName": "SOU",
+                        "imageId": 202712
+                      },
+                      "venueInfo": {
+                        "id": 21,
+                        "ground": "The Rose Bowl",
+                        "city": "Southampton",
+                        "timezone": "+01:00",
+                        "latitude": "50.924131",
+                        "longitude": "-1.322163"
+                      },
+                      "currBatTeamId": 611,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "SOU Won",
+                      "isFantasyEnabled": true
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 116,
+                          "wickets": 6,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 117,
+                          "wickets": 3,
+                          "overs": 78
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88625,
+                      "seriesId": 7525,
+                      "seriesName": "The Hundred Mens Competition 2024",
+                      "matchDesc": "10th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722520800000",
+                      "endDate": "1722520800000",
+                      "state": "Complete",
+                      "status": "London Spirit won by 3 wkts",
+                      "team1": {
+                        "teamId": 606,
+                        "teamName": "Welsh Fire",
+                        "teamSName": "WEF",
+                        "imageId": 202708
+                      },
+                      "team2": {
+                        "teamId": 608,
+                        "teamName": "London Spirit",
+                        "teamSName": "LDN",
+                        "imageId": 202696
+                      },
+                      "venueInfo": {
+                        "id": 19,
+                        "ground": "Lord's",
+                        "city": "London",
+                        "timezone": "+01:00",
+                        "latitude": "51.529488",
+                        "longitude": "-0.172926"
+                      },
+                      "currBatTeamId": 608,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "LDN Won",
+                      "isFantasyEnabled": true
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 94,
+                          "wickets": 9,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 96,
+                          "wickets": 7,
+                          "overs": 87
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88622,
+                      "seriesId": 7525,
+                      "seriesName": "The Hundred Mens Competition 2024",
+                      "matchDesc": "9th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722447000000",
+                      "endDate": "1722447000000",
+                      "state": "Complete",
+                      "status": "Birmingham Phoenix won by 6 runs",
+                      "team1": {
+                        "teamId": 607,
+                        "teamName": "Birmingham Phoenix",
+                        "teamSName": "BRM",
+                        "imageId": 202709
+                      },
+                      "team2": {
+                        "teamId": 612,
+                        "teamName": "Trent Rockets",
+                        "teamSName": "TRE",
+                        "imageId": 202713
+                      },
+                      "venueInfo": {
+                        "id": 18,
+                        "ground": "Trent Bridge",
+                        "city": "Nottingham",
+                        "timezone": "+01:00",
+                        "latitude": "52.936884",
+                        "longitude": "-1.132230"
+                      },
+                      "currBatTeamId": 607,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "BRM Won",
+                      "isFantasyEnabled": true
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 138,
+                          "wickets": 6,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 132,
+                          "wickets": 8,
+                          "overs": 100
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88615,
+                      "seriesId": 7525,
+                      "seriesName": "The Hundred Mens Competition 2024",
+                      "matchDesc": "8th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722360900000",
+                      "endDate": "1722360900000",
+                      "state": "Complete",
+                      "status": "Northern Superchargers won by 7 wkts",
+                      "team1": {
+                        "teamId": 611,
+                        "teamName": "Southern Brave",
+                        "teamSName": "SOU",
+                        "imageId": 202712
+                      },
+                      "team2": {
+                        "teamId": 610,
+                        "teamName": "Northern Superchargers",
+                        "teamSName": "NORS",
+                        "imageId": 202711
+                      },
+                      "venueInfo": {
+                        "id": 66,
+                        "ground": "Headingley",
+                        "city": "Leeds",
+                        "timezone": "+01:00",
+                        "latitude": "53.817622",
+                        "longitude": "-1.58211"
+                      },
+                      "currBatTeamId": 610,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "NORS Won",
+                      "isFantasyEnabled": true
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 146,
+                          "wickets": 8,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 147,
+                          "wickets": 3,
+                          "overs": 85
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "seriesAdWrapper": {
+                "seriesId": 8518,
+                "seriesName": "Global T20 Canada 2024",
+                "matches": [
+                  {
+                    "matchInfo": {
+                      "matchId": 101187,
+                      "seriesId": 8518,
+                      "seriesName": "Global T20 Canada 2024",
+                      "matchDesc": "17th Match",
+                      "matchFormat": "T20",
+                      "startDate": "1722801600000",
+                      "endDate": "1722814200000",
+                      "state": "Complete",
+                      "status": "Vancouver Knights won by 5 wkts",
+                      "team1": {
+                        "teamId": 451,
+                        "teamName": "Montreal Tigers",
+                        "teamSName": "MNT",
+                        "imageId": 172499
+                      },
+                      "team2": {
+                        "teamId": 453,
+                        "teamName": "Vancouver Knights",
+                        "teamSName": "VCK",
+                        "imageId": 172501
+                      },
+                      "venueInfo": {
+                        "id": 569,
+                        "ground": "CAA Centre",
+                        "city": "Brampton, Ontario",
+                        "timezone": "-04:00",
+                        "latitude": "43.482260",
+                        "longitude": "-79.387560"
+                      },
+                      "currBatTeamId": 453,
+                      "seriesStartDt": "1721865600000",
+                      "seriesEndDt": "1724371200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "VCK Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 109,
+                          "wickets": 10,
+                          "overs": 19.2
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 113,
+                          "wickets": 5,
+                          "overs": 18.4
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 101180,
+                      "seriesId": 8518,
+                      "seriesName": "Global T20 Canada 2024",
+                      "matchDesc": "16th Match",
+                      "matchFormat": "T20",
+                      "startDate": "1722783600000",
+                      "endDate": "1722796200000",
+                      "state": "Complete",
+                      "status": "Brampton Wolves won by 6 wkts",
+                      "team1": {
+                        "teamId": 1633,
+                        "teamName": "Surrey Jaguars",
+                        "teamSName": "SJG",
+                        "imageId": 334523
+                      },
+                      "team2": {
+                        "teamId": 591,
+                        "teamName": "Brampton Wolves",
+                        "teamSName": "BTW",
+                        "imageId": 248398
+                      },
+                      "venueInfo": {
+                        "id": 569,
+                        "ground": "CAA Centre",
+                        "city": "Brampton, Ontario",
+                        "timezone": "-04:00",
+                        "latitude": "43.482260",
+                        "longitude": "-79.387560"
+                      },
+                      "currBatTeamId": 591,
+                      "seriesStartDt": "1721865600000",
+                      "seriesEndDt": "1724371200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "BTW Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 124,
+                          "wickets": 10,
+                          "overs": 19.2
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 128,
+                          "wickets": 4,
+                          "overs": 15.1
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 101173,
+                      "seriesId": 8518,
+                      "seriesName": "Global T20 Canada 2024",
+                      "matchDesc": "15th Match",
+                      "matchFormat": "T20",
+                      "startDate": "1722715200000",
+                      "endDate": "1722727800000",
+                      "state": "Complete",
+                      "status": "Toronto Nationals won by 19 runs",
+                      "team1": {
+                        "teamId": 450,
+                        "teamName": "Toronto Nationals",
+                        "teamSName": "TTN",
+                        "imageId": 172498
+                      },
+                      "team2": {
+                        "teamId": 453,
+                        "teamName": "Vancouver Knights",
+                        "teamSName": "VCK",
+                        "imageId": 172501
+                      },
+                      "venueInfo": {
+                        "id": 569,
+                        "ground": "CAA Centre",
+                        "city": "Brampton, Ontario",
+                        "timezone": "-04:00",
+                        "latitude": "43.482260",
+                        "longitude": "-79.387560"
+                      },
+                      "currBatTeamId": 450,
+                      "seriesStartDt": "1721865600000",
+                      "seriesEndDt": "1724371200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "TTN Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 127,
+                          "wickets": 9,
+                          "overs": 19.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 108,
+                          "wickets": 10,
+                          "overs": 18.5
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 101164,
+                      "seriesId": 8518,
+                      "seriesName": "Global T20 Canada 2024",
+                      "matchDesc": "14th Match",
+                      "matchFormat": "T20",
+                      "startDate": "1722697200000",
+                      "endDate": "1722709800000",
+                      "state": "Complete",
+                      "status": "Brampton Wolves won by 8 wkts",
+                      "team1": {
+                        "teamId": 1629,
+                        "teamName": "Bangla Tigers Mississauga",
+                        "teamSName": "BTM",
+                        "imageId": 334524
+                      },
+                      "team2": {
+                        "teamId": 591,
+                        "teamName": "Brampton Wolves",
+                        "teamSName": "BTW",
+                        "imageId": 248398
+                      },
+                      "venueInfo": {
+                        "id": 569,
+                        "ground": "CAA Centre",
+                        "city": "Brampton, Ontario",
+                        "timezone": "-04:00",
+                        "latitude": "43.482260",
+                        "longitude": "-79.387560"
+                      },
+                      "currBatTeamId": 591,
+                      "seriesStartDt": "1721865600000",
+                      "seriesEndDt": "1724371200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "BTW Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 79,
+                          "wickets": 10,
+                          "overs": 12.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 80,
+                          "wickets": 2,
+                          "overs": 11.2
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 101145,
+                      "seriesId": 8518,
+                      "seriesName": "Global T20 Canada 2024",
+                      "matchDesc": "11th Match",
+                      "matchFormat": "T20",
+                      "startDate": "1722456000000",
+                      "endDate": "1722468600000",
+                      "state": "Complete",
+                      "status": "Brampton Wolves won by 6 wkts",
+                      "team1": {
+                        "teamId": 453,
+                        "teamName": "Vancouver Knights",
+                        "teamSName": "VCK",
+                        "imageId": 172501
+                      },
+                      "team2": {
+                        "teamId": 591,
+                        "teamName": "Brampton Wolves",
+                        "teamSName": "BTW",
+                        "imageId": 248398
+                      },
+                      "venueInfo": {
+                        "id": 569,
+                        "ground": "CAA Centre",
+                        "city": "Brampton, Ontario",
+                        "timezone": "-04:00",
+                        "latitude": "43.482260",
+                        "longitude": "-79.387560"
+                      },
+                      "currBatTeamId": 591,
+                      "seriesStartDt": "1721865600000",
+                      "seriesEndDt": "1724371200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "BTW Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 149,
+                          "wickets": 4,
+                          "overs": 19.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 150,
+                          "wickets": 4,
+                          "overs": 18.1
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 101143,
+                      "seriesId": 8518,
+                      "seriesName": "Global T20 Canada 2024",
+                      "matchDesc": "10th Match",
+                      "matchFormat": "T20",
+                      "startDate": "1722438000000",
+                      "endDate": "1722450600000",
+                      "state": "Complete",
+                      "status": "Bangla Tigers Mississauga won by 4 wkts",
+                      "team1": {
+                        "teamId": 1633,
+                        "teamName": "Surrey Jaguars",
+                        "teamSName": "SJG",
+                        "imageId": 334523
+                      },
+                      "team2": {
+                        "teamId": 1629,
+                        "teamName": "Bangla Tigers Mississauga",
+                        "teamSName": "BTM",
+                        "imageId": 334524
+                      },
+                      "venueInfo": {
+                        "id": 569,
+                        "ground": "CAA Centre",
+                        "city": "Brampton, Ontario",
+                        "timezone": "-04:00",
+                        "latitude": "43.482260",
+                        "longitude": "-79.387560"
+                      },
+                      "currBatTeamId": 1629,
+                      "seriesStartDt": "1721865600000",
+                      "seriesEndDt": "1724371200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "BTM Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 101,
+                          "wickets": 10,
+                          "overs": 19.5
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 102,
+                          "wickets": 6,
+                          "overs": 18.6
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 101142,
+                      "seriesId": 8518,
+                      "seriesName": "Global T20 Canada 2024",
+                      "matchDesc": "9th Match",
+                      "matchFormat": "T20",
+                      "startDate": "1722369600000",
+                      "endDate": "1722382200000",
+                      "state": "Complete",
+                      "status": "Montreal Tigers won by 42 runs",
+                      "team1": {
+                        "teamId": 451,
+                        "teamName": "Montreal Tigers",
+                        "teamSName": "MNT",
+                        "imageId": 172499
+                      },
+                      "team2": {
+                        "teamId": 591,
+                        "teamName": "Brampton Wolves",
+                        "teamSName": "BTW",
+                        "imageId": 248398
+                      },
+                      "venueInfo": {
+                        "id": 569,
+                        "ground": "CAA Centre",
+                        "city": "Brampton, Ontario",
+                        "timezone": "-04:00",
+                        "latitude": "43.482260",
+                        "longitude": "-79.387560"
+                      },
+                      "currBatTeamId": 451,
+                      "seriesStartDt": "1721865600000",
+                      "seriesEndDt": "1724371200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "MNT Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 166,
+                          "wickets": 7,
+                          "overs": 19.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 124,
+                          "wickets": 10,
+                          "overs": 18.5
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 101135,
+                      "seriesId": 8518,
+                      "seriesName": "Global T20 Canada 2024",
+                      "matchDesc": "8th Match",
+                      "matchFormat": "T20",
+                      "startDate": "1722351600000",
+                      "endDate": "1722364200000",
+                      "state": "Complete",
+                      "status": "Bangla Tigers Mississauga won by 2 runs",
+                      "team1": {
+                        "teamId": 1629,
+                        "teamName": "Bangla Tigers Mississauga",
+                        "teamSName": "BTM",
+                        "imageId": 334524
+                      },
+                      "team2": {
+                        "teamId": 450,
+                        "teamName": "Toronto Nationals",
+                        "teamSName": "TTN",
+                        "imageId": 172498
+                      },
+                      "venueInfo": {
+                        "id": 569,
+                        "ground": "CAA Centre",
+                        "city": "Brampton, Ontario",
+                        "timezone": "-04:00",
+                        "latitude": "43.482260",
+                        "longitude": "-79.387560"
+                      },
+                      "currBatTeamId": 1629,
+                      "seriesStartDt": "1721865600000",
+                      "seriesEndDt": "1724371200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "BTM Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 168,
+                          "wickets": 7,
+                          "overs": 19.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 166,
+                          "wickets": 7,
+                          "overs": 19.6
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "seriesAdWrapper": {
+                "seriesId": 7862,
+                "seriesName": "Tamil Nadu Premier League 2024",
+                "matches": [
+                  {
+                    "matchInfo": {
+                      "matchId": 92761,
+                      "seriesId": 7862,
+                      "seriesName": "Tamil Nadu Premier League 2024",
+                      "matchDesc": "Final",
+                      "matchFormat": "T20",
+                      "startDate": "1722779100000",
+                      "endDate": "1722791700000",
+                      "state": "Complete",
+                      "status": "Dindigul Dragons won by 6 wkts",
+                      "team1": {
+                        "teamId": 368,
+                        "teamName": "Lyca Kovai Kings",
+                        "teamSName": "LKK",
+                        "imageId": 172421
+                      },
+                      "team2": {
+                        "teamId": 371,
+                        "teamName": "Dindigul Dragons",
+                        "teamSName": "DGD",
+                        "imageId": 172424
+                      },
+                      "venueInfo": {
+                        "id": 11,
+                        "ground": "MA Chidambaram Stadium",
+                        "city": "Chennai",
+                        "timezone": "+05:30",
+                        "latitude": "13.06282",
+                        "longitude": "80.279274"
+                      },
+                      "currBatTeamId": 371,
+                      "seriesStartDt": "1720137600000",
+                      "seriesEndDt": "1722902400000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "DGD Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 129,
+                          "wickets": 7,
+                          "overs": 19.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 131,
+                          "wickets": 4,
+                          "overs": 18.2
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 92752,
+                      "seriesId": 7862,
+                      "seriesName": "Tamil Nadu Premier League 2024",
+                      "matchDesc": "Qualifier 2",
+                      "matchFormat": "T20",
+                      "startDate": "1722606300000",
+                      "endDate": "1722618900000",
+                      "state": "Complete",
+                      "status": "Dindigul Dragons won by 9 wkts",
+                      "team1": {
+                        "teamId": 861,
+                        "teamName": "IDream Tiruppur Tamizhans",
+                        "teamSName": "ITT",
+                        "imageId": 206916
+                      },
+                      "team2": {
+                        "teamId": 371,
+                        "teamName": "Dindigul Dragons",
+                        "teamSName": "DGD",
+                        "imageId": 172424
+                      },
+                      "venueInfo": {
+                        "id": 11,
+                        "ground": "MA Chidambaram Stadium",
+                        "city": "Chennai",
+                        "timezone": "+05:30",
+                        "latitude": "13.06282",
+                        "longitude": "80.279274"
+                      },
+                      "currBatTeamId": 371,
+                      "seriesStartDt": "1720137600000",
+                      "seriesEndDt": "1722902400000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "DGD Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 108,
+                          "wickets": 10,
+                          "overs": 19.4
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 112,
+                          "wickets": 1,
+                          "overs": 10.5
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 92748,
+                      "seriesId": 7862,
+                      "seriesName": "Tamil Nadu Premier League 2024",
+                      "matchDesc": "Eliminator",
+                      "matchFormat": "T20",
+                      "startDate": "1722433500000",
+                      "endDate": "1722446100000",
+                      "state": "Complete",
+                      "status": "Dindigul Dragons won by 4 wkts",
+                      "team1": {
+                        "teamId": 367,
+                        "teamName": "Chepauk Super Gillies",
+                        "teamSName": "CSG",
+                        "imageId": 172420
+                      },
+                      "team2": {
+                        "teamId": 371,
+                        "teamName": "Dindigul Dragons",
+                        "teamSName": "DGD",
+                        "imageId": 172424
+                      },
+                      "venueInfo": {
+                        "id": 405,
+                        "ground": "NPR College Ground",
+                        "city": "Dindigul",
+                        "timezone": "+05:30",
+                        "latitude": "10.367312",
+                        "longitude": "77.980291"
+                      },
+                      "currBatTeamId": 371,
+                      "seriesStartDt": "1720137600000",
+                      "seriesEndDt": "1722902400000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "DGD Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 158,
+                          "wickets": 6,
+                          "overs": 19.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 161,
+                          "wickets": 6,
+                          "overs": 19.5
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 92743,
+                      "seriesId": 7862,
+                      "seriesName": "Tamil Nadu Premier League 2024",
+                      "matchDesc": "Qualifier 1",
+                      "matchFormat": "T20",
+                      "startDate": "1722347100000",
+                      "endDate": "1722359700000",
+                      "state": "Complete",
+                      "status": "Lyca Kovai Kings won by 7 wkts",
+                      "team1": {
+                        "teamId": 861,
+                        "teamName": "IDream Tiruppur Tamizhans",
+                        "teamSName": "ITT",
+                        "imageId": 206916
+                      },
+                      "team2": {
+                        "teamId": 368,
+                        "teamName": "Lyca Kovai Kings",
+                        "teamSName": "LKK",
+                        "imageId": 172421
+                      },
+                      "venueInfo": {
+                        "id": 405,
+                        "ground": "NPR College Ground",
+                        "city": "Dindigul",
+                        "timezone": "+05:30",
+                        "latitude": "10.367312",
+                        "longitude": "77.980291"
+                      },
+                      "currBatTeamId": 368,
+                      "seriesStartDt": "1720137600000",
+                      "seriesEndDt": "1722902400000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "LKK Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 200,
+                          "wickets": 3,
+                          "overs": 19.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 201,
+                          "wickets": 3,
+                          "overs": 18.5
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "matchType": "Domestic",
+          "seriesMatches": [
+            {
+              "seriesAdWrapper": {
+                "seriesId": 7343,
+                "seriesName": "England Domestic One-Day Cup 2024",
+                "matches": [
+                  {
+                    "matchInfo": {
+                      "matchId": 86191,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group A",
+                      "matchFormat": "ODI",
+                      "startDate": "1722765600000",
+                      "endDate": "1722794400000",
+                      "state": "Complete",
+                      "status": "Northamptonshire won by 130 runs",
+                      "team1": {
+                        "teamId": 142,
+                        "teamName": "Northamptonshire",
+                        "teamSName": "NHNTS",
+                        "imageId": 172209
+                      },
+                      "team2": {
+                        "teamId": 147,
+                        "teamName": "Worcestershire",
+                        "teamSName": "WORCS",
+                        "imageId": 172214
+                      },
+                      "venueInfo": {
+                        "id": 119,
+                        "ground": "County Ground",
+                        "city": "Northampton",
+                        "timezone": "+01:00",
+                        "latitude": "52.248160",
+                        "longitude": "-0.871060"
+                      },
+                      "currBatTeamId": 142,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "NHNTS Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 295,
+                          "wickets": 6,
+                          "overs": 49.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 165,
+                          "wickets": 10,
+                          "overs": 38.6
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86212,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group B",
+                      "matchFormat": "ODI",
+                      "startDate": "1722765600000",
+                      "endDate": "1722794400000",
+                      "state": "Complete",
+                      "status": "Glamorgan won by 32 runs",
+                      "team1": {
+                        "teamId": 149,
+                        "teamName": "Glamorgan",
+                        "teamSName": "GLAM",
+                        "imageId": 172216
+                      },
+                      "team2": {
+                        "teamId": 152,
+                        "teamName": "Essex",
+                        "teamSName": "ESS",
+                        "imageId": 172219
+                      },
+                      "venueInfo": {
+                        "id": 118,
+                        "ground": "County Ground",
+                        "city": "Chelmsford",
+                        "timezone": "+01:00",
+                        "latitude": "51.731580",
+                        "longitude": "0.469004"
+                      },
+                      "currBatTeamId": 149,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "GLAM Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 283,
+                          "wickets": 10,
+                          "overs": 49.4
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 251,
+                          "wickets": 10,
+                          "overs": 46.4
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86233,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group B",
+                      "matchFormat": "ODI",
+                      "startDate": "1722765600000",
+                      "endDate": "1722794400000",
+                      "state": "Complete",
+                      "status": "Leicestershire won by 10 runs",
+                      "team1": {
+                        "teamId": 145,
+                        "teamName": "Leicestershire",
+                        "teamSName": "LEIC",
+                        "imageId": 172212
+                      },
+                      "team2": {
+                        "teamId": 41,
+                        "teamName": "Sussex",
+                        "teamSName": "SUS",
+                        "imageId": 172148
+                      },
+                      "venueInfo": {
+                        "id": 292,
+                        "ground": "County Ground",
+                        "city": "Hove",
+                        "timezone": "+01:00",
+                        "latitude": "50.830995",
+                        "longitude": "-0.163522"
+                      },
+                      "currBatTeamId": 145,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "LEIC Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 363,
+                          "wickets": 7,
+                          "overs": 49.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 353,
+                          "wickets": 9,
+                          "overs": 49.6
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86198,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group A",
+                      "matchFormat": "ODI",
+                      "startDate": "1722765600000",
+                      "endDate": "1722794400000",
+                      "state": "Complete",
+                      "status": "Hampshire won by 71 runs",
+                      "team1": {
+                        "teamId": 153,
+                        "teamName": "Hampshire",
+                        "teamSName": "HAM",
+                        "imageId": 172220
+                      },
+                      "team2": {
+                        "teamId": 143,
+                        "teamName": "Lancashire",
+                        "teamSName": "LANCS",
+                        "imageId": 172210
+                      },
+                      "venueInfo": {
+                        "id": 21,
+                        "ground": "The Rose Bowl",
+                        "city": "Southampton",
+                        "timezone": "+01:00",
+                        "latitude": "50.924131",
+                        "longitude": "-1.322163"
+                      },
+                      "currBatTeamId": 153,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "HAM Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 222,
+                          "wickets": 8,
+                          "overs": 49.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 151,
+                          "wickets": 10,
+                          "overs": 39.5
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86219,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group B",
+                      "matchFormat": "ODI",
+                      "startDate": "1722765600000",
+                      "endDate": "1722794400000",
+                      "state": "Complete",
+                      "status": "Warwickshire won by 6 wkts",
+                      "team1": {
+                        "teamId": 151,
+                        "teamName": "Gloucestershire",
+                        "teamSName": "GLOUCS",
+                        "imageId": 172218
+                      },
+                      "team2": {
+                        "teamId": 140,
+                        "teamName": "Warwickshire",
+                        "teamSName": "WARKS",
+                        "imageId": 172207
+                      },
+                      "venueInfo": {
+                        "id": 63,
+                        "ground": "County Ground",
+                        "city": "Bristol",
+                        "timezone": "+01:00",
+                        "latitude": "51.477246",
+                        "longitude": "-2.584212"
+                      },
+                      "currBatTeamId": 140,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "WARKS Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 267,
+                          "wickets": 10,
+                          "overs": 49.4
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 271,
+                          "wickets": 4,
+                          "overs": 47.5
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86240,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group A",
+                      "matchFormat": "ODI",
+                      "startDate": "1722765600000",
+                      "endDate": "1722794400000",
+                      "state": "Complete",
+                      "status": "Derbyshire won by 1 wkt",
+                      "team1": {
+                        "teamId": 119,
+                        "teamName": "Somerset",
+                        "teamSName": "SOM",
+                        "imageId": 172199
+                      },
+                      "team2": {
+                        "teamId": 144,
+                        "teamName": "Derbyshire",
+                        "teamSName": "DERBY",
+                        "imageId": 172211
+                      },
+                      "venueInfo": {
+                        "id": 223,
+                        "ground": "The Cooper Associates County Ground",
+                        "city": "Taunton",
+                        "timezone": "+01:00",
+                        "latitude": "51.018913",
+                        "longitude": "3.100894"
+                      },
+                      "currBatTeamId": 144,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "DERBY Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 316,
+                          "wickets": 5,
+                          "overs": 49.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 317,
+                          "wickets": 9,
+                          "overs": 48.2
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86205,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group A",
+                      "matchFormat": "ODI",
+                      "startDate": "1722765600000",
+                      "endDate": "1722794400000",
+                      "state": "Complete",
+                      "status": "Middlesex won by 5 wkts",
+                      "team1": {
+                        "teamId": 150,
+                        "teamName": "Kent",
+                        "teamSName": "KENT",
+                        "imageId": 172217
+                      },
+                      "team2": {
+                        "teamId": 74,
+                        "teamName": "Middlesex",
+                        "teamSName": "MDX",
+                        "imageId": 172170
+                      },
+                      "venueInfo": {
+                        "id": 406,
+                        "ground": "Kent County Cricket Ground",
+                        "city": "Beckenham",
+                        "timezone": "+01:00",
+                        "latitude": "51.408351",
+                        "longitude": "-0.025803"
+                      },
+                      "currBatTeamId": 74,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "MDX Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 204,
+                          "wickets": 10,
+                          "overs": 44.4
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 206,
+                          "wickets": 5,
+                          "overs": 31.2
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86226,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group B",
+                      "matchFormat": "ODI",
+                      "startDate": "1722765600000",
+                      "endDate": "1722794400000",
+                      "state": "Complete",
+                      "status": "Nottinghamshire won by 107 runs",
+                      "team1": {
+                        "teamId": 139,
+                        "teamName": "Nottinghamshire",
+                        "teamSName": "NOTTS",
+                        "imageId": 172206
+                      },
+                      "team2": {
+                        "teamId": 148,
+                        "teamName": "Surrey",
+                        "teamSName": "SUR",
+                        "imageId": 172215
+                      },
+                      "venueInfo": {
+                        "id": 348,
+                        "ground": "Woodbridge Road",
+                        "city": "Guildford",
+                        "timezone": "+01:00",
+                        "latitude": "51.24548",
+                        "longitude": "-0.574253"
+                      },
+                      "currBatTeamId": 139,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "NOTTS Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 378,
+                          "wickets": 6,
+                          "overs": 49.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 271,
+                          "wickets": 10,
+                          "overs": 43.1
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86177,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group A",
+                      "matchFormat": "ODI",
+                      "startDate": "1722603600000",
+                      "endDate": "1722632400000",
+                      "state": "Complete",
+                      "status": "Somerset won by 8 wkts",
+                      "team1": {
+                        "teamId": 143,
+                        "teamName": "Lancashire",
+                        "teamSName": "LANCS",
+                        "imageId": 172210
+                      },
+                      "team2": {
+                        "teamId": 119,
+                        "teamName": "Somerset",
+                        "teamSName": "SOM",
+                        "imageId": 172199
+                      },
+                      "venueInfo": {
+                        "id": 223,
+                        "ground": "The Cooper Associates County Ground",
+                        "city": "Taunton",
+                        "timezone": "+01:00",
+                        "latitude": "51.018913",
+                        "longitude": "3.100894"
+                      },
+                      "currBatTeamId": 119,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "SOM Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 218,
+                          "wickets": 10,
+                          "overs": 49.1
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 220,
+                          "wickets": 2,
+                          "overs": 40.5
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86156,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group A",
+                      "matchFormat": "ODI",
+                      "startDate": "1722592800000",
+                      "endDate": "1722621600000",
+                      "state": "Complete",
+                      "status": "Worcestershire won by 8 wkts",
+                      "team1": {
+                        "teamId": 144,
+                        "teamName": "Derbyshire",
+                        "teamSName": "DERBY",
+                        "imageId": 172211
+                      },
+                      "team2": {
+                        "teamId": 147,
+                        "teamName": "Worcestershire",
+                        "teamSName": "WORCS",
+                        "imageId": 172214
+                      },
+                      "venueInfo": {
+                        "id": 226,
+                        "ground": "County Ground",
+                        "city": "Derby",
+                        "timezone": "+01:00",
+                        "latitude": "52.927517",
+                        "longitude": "-1.461188"
+                      },
+                      "currBatTeamId": 147,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "WORCS Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 260,
+                          "wickets": 10,
+                          "overs": 49.4
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 261,
+                          "wickets": 2,
+                          "overs": 44.4
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86163,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group B",
+                      "matchFormat": "ODI",
+                      "startDate": "1722592800000",
+                      "endDate": "1722621600000",
+                      "state": "Complete",
+                      "status": "Warwickshire won by 3 runs",
+                      "team1": {
+                        "teamId": 140,
+                        "teamName": "Warwickshire",
+                        "teamSName": "WARKS",
+                        "imageId": 172207
+                      },
+                      "team2": {
+                        "teamId": 148,
+                        "teamName": "Surrey",
+                        "teamSName": "SUR",
+                        "imageId": 172215
+                      },
+                      "venueInfo": {
+                        "id": 361,
+                        "ground": "Rugby School Ground ",
+                        "city": "Rugby, Warwickshire ",
+                        "timezone": "+01:00",
+                        "latitude": "52.321369",
+                        "longitude": "-1.567100"
+                      },
+                      "currBatTeamId": 140,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "WARKS Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 311,
+                          "wickets": 9,
+                          "overs": 49.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 308,
+                          "wickets": 9,
+                          "overs": 49.6
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86184,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group B",
+                      "matchFormat": "ODI",
+                      "startDate": "1722592800000",
+                      "endDate": "1722621600000",
+                      "state": "Complete",
+                      "status": "Glamorgan won by 1 wkt",
+                      "team1": {
+                        "teamId": 41,
+                        "teamName": "Sussex",
+                        "teamSName": "SUS",
+                        "imageId": 172148
+                      },
+                      "team2": {
+                        "teamId": 149,
+                        "teamName": "Glamorgan",
+                        "teamSName": "GLAM",
+                        "imageId": 172216
+                      },
+                      "venueInfo": {
+                        "id": 957,
+                        "ground": "The Gnoll Cricket Ground",
+                        "city": "Neath, Wales",
+                        "timezone": "+01:00",
+                        "latitude": "51.6637873",
+                        "longitude": "-3.8007007"
+                      },
+                      "currBatTeamId": 149,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "GLAM Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 200,
+                          "wickets": 10,
+                          "overs": 47.2
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 203,
+                          "wickets": 9,
+                          "overs": 48.3
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86149,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group B",
+                      "matchFormat": "ODI",
+                      "startDate": "1722592800000",
+                      "endDate": "1722621600000",
+                      "state": "Complete",
+                      "status": "Gloucestershire won by 36 runs",
+                      "team1": {
+                        "teamId": 151,
+                        "teamName": "Gloucestershire",
+                        "teamSName": "GLOUCS",
+                        "imageId": 172218
+                      },
+                      "team2": {
+                        "teamId": 146,
+                        "teamName": "Yorkshire",
+                        "teamSName": "YORKS",
+                        "imageId": 172213
+                      },
+                      "venueInfo": {
+                        "id": 557,
+                        "ground": "York Cricket Club",
+                        "city": "York",
+                        "timezone": "+01:00",
+                        "latitude": "53.957741",
+                        "longitude": "-1.082260"
+                      },
+                      "currBatTeamId": 151,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "GLOUCS Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 251,
+                          "wickets": 9,
+                          "overs": 49.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 215,
+                          "wickets": 10,
+                          "overs": 47.1
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86170,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group A",
+                      "matchFormat": "ODI",
+                      "startDate": "1722592800000",
+                      "endDate": "1722621600000",
+                      "state": "Complete",
+                      "status": "Durham won by 4 wkts",
+                      "team1": {
+                        "teamId": 142,
+                        "teamName": "Northamptonshire",
+                        "teamSName": "NHNTS",
+                        "imageId": 172209
+                      },
+                      "team2": {
+                        "teamId": 141,
+                        "teamName": "Durham",
+                        "teamSName": "DUR",
+                        "imageId": 172208
+                      },
+                      "venueInfo": {
+                        "id": 60,
+                        "ground": "Riverside Ground",
+                        "city": "Chester-le-Street",
+                        "timezone": "+01:00",
+                        "latitude": "54.849531",
+                        "longitude": "-1.56103"
+                      },
+                      "currBatTeamId": 141,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "DUR Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 260,
+                          "wickets": 10,
+                          "overs": 49.2
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 261,
+                          "wickets": 6,
+                          "overs": 48.1
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86114,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group A",
+                      "matchFormat": "ODI",
+                      "startDate": "1722420000000",
+                      "endDate": "1722448800000",
+                      "state": "Complete",
+                      "status": "Somerset won by 133 runs",
+                      "team1": {
+                        "teamId": 119,
+                        "teamName": "Somerset",
+                        "teamSName": "SOM",
+                        "imageId": 172199
+                      },
+                      "team2": {
+                        "teamId": 141,
+                        "teamName": "Durham",
+                        "teamSName": "DUR",
+                        "imageId": 172208
+                      },
+                      "venueInfo": {
+                        "id": 60,
+                        "ground": "Riverside Ground",
+                        "city": "Chester-le-Street",
+                        "timezone": "+01:00",
+                        "latitude": "54.849531",
+                        "longitude": "-1.56103"
+                      },
+                      "currBatTeamId": 119,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "SOM Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 241,
+                          "wickets": 9,
+                          "overs": 49.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 108,
+                          "wickets": 10,
+                          "overs": 30.3
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86135,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group A",
+                      "matchFormat": "ODI",
+                      "startDate": "1722420000000",
+                      "endDate": "1722448800000",
+                      "state": "Complete",
+                      "status": "Derbyshire won by 9 wkts",
+                      "team1": {
+                        "teamId": 143,
+                        "teamName": "Lancashire",
+                        "teamSName": "LANCS",
+                        "imageId": 172210
+                      },
+                      "team2": {
+                        "teamId": 144,
+                        "teamName": "Derbyshire",
+                        "teamSName": "DERBY",
+                        "imageId": 172211
+                      },
+                      "venueInfo": {
+                        "id": 226,
+                        "ground": "County Ground",
+                        "city": "Derby",
+                        "timezone": "+01:00",
+                        "latitude": "52.927517",
+                        "longitude": "-1.461188"
+                      },
+                      "currBatTeamId": 144,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "DERBY Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 99,
+                          "wickets": 10,
+                          "overs": 19.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 100,
+                          "wickets": 1,
+                          "overs": 19.5
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86121,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group B",
+                      "matchFormat": "ODI",
+                      "startDate": "1722420000000",
+                      "endDate": "1722448800000",
+                      "state": "Complete",
+                      "status": "Yorkshire won by 49 runs",
+                      "team1": {
+                        "teamId": 146,
+                        "teamName": "Yorkshire",
+                        "teamSName": "YORKS",
+                        "imageId": 172213
+                      },
+                      "team2": {
+                        "teamId": 41,
+                        "teamName": "Sussex",
+                        "teamSName": "SUS",
+                        "imageId": 172148
+                      },
+                      "venueInfo": {
+                        "id": 557,
+                        "ground": "York Cricket Club",
+                        "city": "York",
+                        "timezone": "+01:00",
+                        "latitude": "53.957741",
+                        "longitude": "-1.082260"
+                      },
+                      "currBatTeamId": 146,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "YORKS Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 261,
+                          "wickets": 10,
+                          "overs": 49.4
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 212,
+                          "wickets": 10,
+                          "overs": 43.6
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86142,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group B",
+                      "matchFormat": "ODI",
+                      "startDate": "1722420000000",
+                      "endDate": "1722448800000",
+                      "state": "Complete",
+                      "status": "Leicestershire won by 3 wkts",
+                      "team1": {
+                        "teamId": 152,
+                        "teamName": "Essex",
+                        "teamSName": "ESS",
+                        "imageId": 172219
+                      },
+                      "team2": {
+                        "teamId": 145,
+                        "teamName": "Leicestershire",
+                        "teamSName": "LEIC",
+                        "imageId": 172212
+                      },
+                      "venueInfo": {
+                        "id": 118,
+                        "ground": "County Ground",
+                        "city": "Chelmsford",
+                        "timezone": "+01:00",
+                        "latitude": "51.731580",
+                        "longitude": "0.469004"
+                      },
+                      "currBatTeamId": 145,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "LEIC Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 290,
+                          "wickets": 9,
+                          "overs": 49.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 291,
+                          "wickets": 7,
+                          "overs": 47.3
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86107,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group A",
+                      "matchFormat": "ODI",
+                      "startDate": "1722420000000",
+                      "endDate": "1722448800000",
+                      "state": "Complete",
+                      "status": "Kent won by 4 wkts",
+                      "team1": {
+                        "teamId": 153,
+                        "teamName": "Hampshire",
+                        "teamSName": "HAM",
+                        "imageId": 172220
+                      },
+                      "team2": {
+                        "teamId": 150,
+                        "teamName": "Kent",
+                        "teamSName": "KENT",
+                        "imageId": 172217
+                      },
+                      "venueInfo": {
+                        "id": 406,
+                        "ground": "Kent County Cricket Ground",
+                        "city": "Beckenham",
+                        "timezone": "+01:00",
+                        "latitude": "51.408351",
+                        "longitude": "-0.025803"
+                      },
+                      "currBatTeamId": 150,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "KENT Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 168,
+                          "wickets": 10,
+                          "overs": 40.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 170,
+                          "wickets": 6,
+                          "overs": 40.3
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86128,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group B",
+                      "matchFormat": "ODI",
+                      "startDate": "1722420000000",
+                      "endDate": "1722448800000",
+                      "state": "Complete",
+                      "status": "Glamorgan won by 8 wkts",
+                      "team1": {
+                        "teamId": 139,
+                        "teamName": "Nottinghamshire",
+                        "teamSName": "NOTTS",
+                        "imageId": 172206
+                      },
+                      "team2": {
+                        "teamId": 149,
+                        "teamName": "Glamorgan",
+                        "teamSName": "GLAM",
+                        "imageId": 172216
+                      },
+                      "venueInfo": {
+                        "id": 957,
+                        "ground": "The Gnoll Cricket Ground",
+                        "city": "Neath, Wales",
+                        "timezone": "+01:00",
+                        "latitude": "51.6637873",
+                        "longitude": "-3.8007007"
+                      },
+                      "currBatTeamId": 149,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "GLAM Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 274,
+                          "wickets": 9,
+                          "overs": 49.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 278,
+                          "wickets": 2,
+                          "overs": 45.3
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86100,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group B",
+                      "matchFormat": "ODI",
+                      "startDate": "1722333600000",
+                      "endDate": "1722362400000",
+                      "state": "Complete",
+                      "status": "Gloucestershire won by 37 runs",
+                      "team1": {
+                        "teamId": 151,
+                        "teamName": "Gloucestershire",
+                        "teamSName": "GLOUCS",
+                        "imageId": 172218
+                      },
+                      "team2": {
+                        "teamId": 148,
+                        "teamName": "Surrey",
+                        "teamSName": "SUR",
+                        "imageId": 172215
+                      },
+                      "venueInfo": {
+                        "id": 12,
+                        "ground": "Kennington Oval",
+                        "city": "London",
+                        "timezone": "+01:00",
+                        "latitude": "51.48368",
+                        "longitude": "-0.114885"
+                      },
+                      "currBatTeamId": 151,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "GLOUCS Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 301,
+                          "wickets": 10,
+                          "overs": 48.1
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 264,
+                          "wickets": 10,
+                          "overs": 47.5
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 86093,
+                      "seriesId": 7343,
+                      "seriesName": "England Domestic One-Day Cup 2024",
+                      "matchDesc": "Group A",
+                      "matchFormat": "ODI",
+                      "startDate": "1722247200000",
+                      "endDate": "1722276000000",
+                      "state": "Complete",
+                      "status": "Middlesex won by 5 wkts",
+                      "team1": {
+                        "teamId": 142,
+                        "teamName": "Northamptonshire",
+                        "teamSName": "NHNTS",
+                        "imageId": 172209
+                      },
+                      "team2": {
+                        "teamId": 74,
+                        "teamName": "Middlesex",
+                        "teamSName": "MDX",
+                        "imageId": 172170
+                      },
+                      "venueInfo": {
+                        "id": 356,
+                        "ground": "Radlett Cricket Club",
+                        "city": "Radlett",
+                        "timezone": "+01:00",
+                        "latitude": "51.676346",
+                        "longitude": "-0.309069"
+                      },
+                      "currBatTeamId": 74,
+                      "seriesStartDt": "1721779200000",
+                      "seriesEndDt": "1727136000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "MDX Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 317,
+                          "wickets": 9,
+                          "overs": 49.6
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 319,
+                          "wickets": 5,
+                          "overs": 48.1
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "matchType": "Women",
+          "seriesMatches": [
+            {
+              "seriesAdWrapper": {
+                "seriesId": 7532,
+                "seriesName": "The Hundred Womens Competition 2024",
+                "matches": [
+                  {
+                    "matchInfo": {
+                      "matchId": 88807,
+                      "seriesId": 7532,
+                      "seriesName": "The Hundred Womens Competition 2024",
+                      "matchDesc": "17th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722866400000",
+                      "endDate": "1722866400000",
+                      "state": "Complete",
+                      "status": "Welsh Fire Women won by 7 wkts ",
+                      "team1": {
+                        "teamId": 614,
+                        "teamName": "Welsh Fire Women",
+                        "teamSName": "WELW",
+                        "imageId": 202715
+                      },
+                      "team2": {
+                        "teamId": 620,
+                        "teamName": "Southern Brave Women",
+                        "teamSName": "SOUW",
+                        "imageId": 202721
+                      },
+                      "venueInfo": {
+                        "id": 62,
+                        "ground": "Sophia Gardens",
+                        "city": "Cardiff",
+                        "timezone": "+01:00",
+                        "latitude": "51.484257",
+                        "longitude": "-3.189187"
+                      },
+                      "currBatTeamId": 614,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "WELW Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 88,
+                          "wickets": 3,
+                          "overs": 90
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 84,
+                          "wickets": 10,
+                          "overs": 91
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88804,
+                      "seriesId": 7532,
+                      "seriesName": "The Hundred Womens Competition 2024",
+                      "matchDesc": "16th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722778200000",
+                      "endDate": "1722778200000",
+                      "state": "Complete",
+                      "status": "Northern Superchargers Women won by 46 runs",
+                      "team1": {
+                        "teamId": 619,
+                        "teamName": "Northern Superchargers Women",
+                        "teamSName": "NORW",
+                        "imageId": 202720
+                      },
+                      "team2": {
+                        "teamId": 617,
+                        "teamName": "Manchester Originals Women",
+                        "teamSName": "MCRW",
+                        "imageId": 202718
+                      },
+                      "venueInfo": {
+                        "id": 66,
+                        "ground": "Headingley",
+                        "city": "Leeds",
+                        "timezone": "+01:00",
+                        "latitude": "53.817622",
+                        "longitude": "-1.58211"
+                      },
+                      "currBatTeamId": 619,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "NORW Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 138,
+                          "wickets": 4,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 92,
+                          "wickets": 10,
+                          "overs": 96
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88797,
+                      "seriesId": 7532,
+                      "seriesName": "The Hundred Womens Competition 2024",
+                      "matchDesc": "15th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722765600000",
+                      "endDate": "1722765600000",
+                      "state": "Complete",
+                      "status": "Match tied",
+                      "team1": {
+                        "teamId": 616,
+                        "teamName": "London Spirit Women",
+                        "teamSName": "LDNW",
+                        "imageId": 202717
+                      },
+                      "team2": {
+                        "teamId": 613,
+                        "teamName": "Oval Invincibles Women",
+                        "teamSName": "OVLW",
+                        "imageId": 202714
+                      },
+                      "venueInfo": {
+                        "id": 19,
+                        "ground": "Lord's",
+                        "city": "London",
+                        "timezone": "+01:00",
+                        "latitude": "51.529488",
+                        "longitude": "-0.172926"
+                      },
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "Complete"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 113,
+                          "wickets": 9,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 113,
+                          "wickets": 8,
+                          "overs": 100
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88793,
+                      "seriesId": 7532,
+                      "seriesName": "The Hundred Womens Competition 2024",
+                      "matchDesc": "14th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722691800000",
+                      "endDate": "1722691800000",
+                      "state": "Complete",
+                      "status": "Welsh Fire Women won by 6 wkts",
+                      "team1": {
+                        "teamId": 618,
+                        "teamName": "Trent Rockets Women",
+                        "teamSName": "TREW",
+                        "imageId": 202719
+                      },
+                      "team2": {
+                        "teamId": 614,
+                        "teamName": "Welsh Fire Women",
+                        "teamSName": "WELW",
+                        "imageId": 202715
+                      },
+                      "venueInfo": {
+                        "id": 18,
+                        "ground": "Trent Bridge",
+                        "city": "Nottingham",
+                        "timezone": "+01:00",
+                        "latitude": "52.936884",
+                        "longitude": "-1.132230"
+                      },
+                      "currBatTeamId": 614,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "WELW Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 130,
+                          "wickets": 5,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 131,
+                          "wickets": 4,
+                          "overs": 98
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88786,
+                      "seriesId": 7532,
+                      "seriesName": "The Hundred Womens Competition 2024",
+                      "matchDesc": "13th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722679200000",
+                      "endDate": "1722679200000",
+                      "state": "Complete",
+                      "status": "Birmingham Phoenix Women won by 16 runs",
+                      "team1": {
+                        "teamId": 615,
+                        "teamName": "Birmingham Phoenix Women",
+                        "teamSName": "BRMW",
+                        "imageId": 202716
+                      },
+                      "team2": {
+                        "teamId": 620,
+                        "teamName": "Southern Brave Women",
+                        "teamSName": "SOUW",
+                        "imageId": 202721
+                      },
+                      "venueInfo": {
+                        "id": 20,
+                        "ground": "Edgbaston",
+                        "city": "Birmingham",
+                        "timezone": "+01:00",
+                        "latitude": "52.455774",
+                        "longitude": "-1.902624"
+                      },
+                      "currBatTeamId": 615,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "BRMW Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 137,
+                          "wickets": 7,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 121,
+                          "wickets": 10,
+                          "overs": 97
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88783,
+                      "seriesId": 7532,
+                      "seriesName": "The Hundred Womens Competition 2024",
+                      "matchDesc": "12th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722607200000",
+                      "endDate": "1722607200000",
+                      "state": "Complete",
+                      "status": "Northern Superchargers Women won by 82 runs",
+                      "team1": {
+                        "teamId": 613,
+                        "teamName": "Oval Invincibles Women",
+                        "teamSName": "OVLW",
+                        "imageId": 202714
+                      },
+                      "team2": {
+                        "teamId": 619,
+                        "teamName": "Northern Superchargers Women",
+                        "teamSName": "NORW",
+                        "imageId": 202720
+                      },
+                      "venueInfo": {
+                        "id": 12,
+                        "ground": "Kennington Oval",
+                        "city": "London",
+                        "timezone": "+01:00",
+                        "latitude": "51.48368",
+                        "longitude": "-0.114885"
+                      },
+                      "currBatTeamId": 619,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "NORW Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 64,
+                          "wickets": 10,
+                          "overs": 66
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 146,
+                          "wickets": 4,
+                          "overs": 100
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88779,
+                      "seriesId": 7532,
+                      "seriesName": "The Hundred Womens Competition 2024",
+                      "matchDesc": "11th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722520800000",
+                      "endDate": "1722520800000",
+                      "state": "Complete",
+                      "status": "Manchester Originals Women won by 6 wkts",
+                      "team1": {
+                        "teamId": 620,
+                        "teamName": "Southern Brave Women",
+                        "teamSName": "SOUW",
+                        "imageId": 202721
+                      },
+                      "team2": {
+                        "teamId": 617,
+                        "teamName": "Manchester Originals Women",
+                        "teamSName": "MCRW",
+                        "imageId": 202718
+                      },
+                      "venueInfo": {
+                        "id": 21,
+                        "ground": "The Rose Bowl",
+                        "city": "Southampton",
+                        "timezone": "+01:00",
+                        "latitude": "50.924131",
+                        "longitude": "-1.322163"
+                      },
+                      "currBatTeamId": 617,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "MCRW Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 136,
+                          "wickets": 5,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 140,
+                          "wickets": 4,
+                          "overs": 98
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88776,
+                      "seriesId": 7532,
+                      "seriesName": "The Hundred Womens Competition 2024",
+                      "matchDesc": "10th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722508200000",
+                      "endDate": "1722508200000",
+                      "state": "Complete",
+                      "status": "Welsh Fire Women won by 6 wkts",
+                      "team1": {
+                        "teamId": 616,
+                        "teamName": "London Spirit Women",
+                        "teamSName": "LDNW",
+                        "imageId": 202717
+                      },
+                      "team2": {
+                        "teamId": 614,
+                        "teamName": "Welsh Fire Women",
+                        "teamSName": "WELW",
+                        "imageId": 202715
+                      },
+                      "venueInfo": {
+                        "id": 19,
+                        "ground": "Lord's",
+                        "city": "London",
+                        "timezone": "+01:00",
+                        "latitude": "51.529488",
+                        "longitude": "-0.172926"
+                      },
+                      "currBatTeamId": 614,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "WELW Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 150,
+                          "wickets": 5,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 151,
+                          "wickets": 4,
+                          "overs": 95
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88772,
+                      "seriesId": 7532,
+                      "seriesName": "The Hundred Womens Competition 2024",
+                      "matchDesc": "9th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722434400000",
+                      "endDate": "1722434400000",
+                      "state": "Complete",
+                      "status": "Birmingham Phoenix Women won by 3 runs",
+                      "team1": {
+                        "teamId": 615,
+                        "teamName": "Birmingham Phoenix Women",
+                        "teamSName": "BRMW",
+                        "imageId": 202716
+                      },
+                      "team2": {
+                        "teamId": 618,
+                        "teamName": "Trent Rockets Women",
+                        "teamSName": "TREW",
+                        "imageId": 202719
+                      },
+                      "venueInfo": {
+                        "id": 18,
+                        "ground": "Trent Bridge",
+                        "city": "Nottingham",
+                        "timezone": "+01:00",
+                        "latitude": "52.936884",
+                        "longitude": "-1.132230"
+                      },
+                      "currBatTeamId": 615,
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "BRMW Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 139,
+                          "wickets": 3,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 136,
+                          "wickets": 7,
+                          "overs": 100
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "matchInfo": {
+                      "matchId": 88769,
+                      "seriesId": 7532,
+                      "seriesName": "The Hundred Womens Competition 2024",
+                      "matchDesc": "8th Match",
+                      "matchFormat": "HUN",
+                      "startDate": "1722348000000",
+                      "endDate": "1722348000000",
+                      "state": "Complete",
+                      "status": "Match tied",
+                      "team1": {
+                        "teamId": 620,
+                        "teamName": "Southern Brave Women",
+                        "teamSName": "SOUW",
+                        "imageId": 202721
+                      },
+                      "team2": {
+                        "teamId": 619,
+                        "teamName": "Northern Superchargers Women",
+                        "teamSName": "NORW",
+                        "imageId": 202720
+                      },
+                      "venueInfo": {
+                        "id": 66,
+                        "ground": "Headingley",
+                        "city": "Leeds",
+                        "timezone": "+01:00",
+                        "latitude": "53.817622",
+                        "longitude": "-1.58211"
+                      },
+                      "seriesStartDt": "1721692800000",
+                      "seriesEndDt": "1724112000000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "Complete"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 100,
+                          "wickets": 8,
+                          "overs": 100
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 100,
+                          "wickets": 7,
+                          "overs": 100
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "seriesAdWrapper": {
+                "seriesId": 8574,
+                "seriesName": "Womens Tri-Series in Netherlands, 2024",
+                "matches": [
+                  {
+                    "matchInfo": {
+                      "matchId": 102407,
+                      "seriesId": 8574,
+                      "seriesName": "Womens Tri-Series in Netherlands, 2024",
+                      "matchDesc": "1st Match",
+                      "matchFormat": "ODI",
+                      "startDate": "1722848400000",
+                      "endDate": "1722877200000",
+                      "state": "Complete",
+                      "status": "Netherlands Women won by 3 wkts",
+                      "team1": {
+                        "teamId": 390,
+                        "teamName": "Papua New Guinea Women",
+                        "teamSName": "PNGW",
+                        "imageId": 172443
+                      },
+                      "team2": {
+                        "teamId": 188,
+                        "teamName": "Netherlands Women",
+                        "teamSName": "NEDW",
+                        "imageId": 172248
+                      },
+                      "venueInfo": {
+                        "id": 529,
+                        "ground": "Sportpark Maarschalkerweerd",
+                        "city": "Utrecht",
+                        "timezone": "+02:00",
+                        "latitude": "52.090737",
+                        "longitude": "5.121420"
+                      },
+                      "currBatTeamId": 188,
+                      "seriesStartDt": "1722816000000",
+                      "seriesEndDt": "1723939200000",
+                      "isTimeAnnounced": true,
+                      "stateTitle": "NEDW Won"
+                    },
+                    "matchScore": {
+                      "team1Score": {
+                        "inngs1": {
+                          "inningsId": 1,
+                          "runs": 148,
+                          "wickets": 10,
+                          "overs": 35.3
+                        }
+                      },
+                      "team2Score": {
+                        "inngs1": {
+                          "inningsId": 2,
+                          "runs": 149,
+                          "wickets": 7,
+                          "overs": 37.1
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "filters": {
+        "matchType": [
+          "International",
+          "League",
+          "Domestic",
+          "Women"
+        ]
+      },
+      "appIndex": {
+        "seoTitle": "Live Cricket Score - Scorecard and Match Results",
+        "webURL": "www.cricbuzz.com/live-cricket-scores/"
+      },
+      "responseLastUpdated": "1722879641"
+    }
+  ]
+}
